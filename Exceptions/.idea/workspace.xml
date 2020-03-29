@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a484fcd5-1e35-4c30-a9f6-78e947f912b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/ByteBank - Herdado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/src/CalculadorDeImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/src/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/src/SeguroDeVida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/src/TesteTributaveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank - Herdado/src/Tributavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herança e interface/ByteBank/Herança e interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Introdução a OOP/ByteBank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Introdução a OOP/ByteBank/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Introdução a OOP/ByteBank/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Introdução a OOP/ByteBank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Introdução a OOP/ByteBank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Introdução a OOP/ByteBank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Introdução a OOP/ByteBank/ByteBank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Introdução a OOP/ByteBank/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Introdução a OOP/ByteBank/src/Conta.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Matheus\Documents\ProjetosGit\Exceptions\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YYJe5qjBvIji55gh1orEpCYTXF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a484fcd5-1e35-4c30-a9f6-78e947f912b2" name="Default Changelist" comment="" />
+      <created>1583113687843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583113687843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="132" key="FileChooserDialogImpl" timestamp="1583113726600">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="397" y="132" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583113726600" />
+    <state x="0" y="11" key="new project wizard" timestamp="1583113739289">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="11" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1583113739289" />
+  </component>
+</project>
