@@ -5,6 +5,7 @@ import br.com.alura.model.Aula;
 import br.com.alura.model.Curso;
 
 import java.util.Collections;
+import java.util.Iterator;
 import java.util.Set;
 
 public class TestaCursoComAluno {
@@ -25,6 +26,13 @@ public class TestaCursoComAluno {
         javaColecoes.matricula(a3);
 
         javaColecoes.getAlunos().forEach(System.out::println);
+
+        Set<Aluno> alunos = javaColecoes.getAlunos();
+        Iterator<Aluno> iterador = alunos.iterator();
+
+        while(iterador.hasNext()){
+            System.out.println(iterador.next());
+        }
 
         Aluno torini = new Aluno("Rodrigo Torini", 34672);
         System.out.println(javaColecoes.estaMatriculado(a1));
