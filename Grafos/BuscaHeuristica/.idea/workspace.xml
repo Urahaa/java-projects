@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46449e90-e261-4b66-a2e3-0e6a001f73ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bs5dUjyp2ktP1nP4NfqKRAeY1Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GeradorGrafo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeradorGrafo" />
+      <module name="BuscaHeuristica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeradorGrafo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46449e90-e261-4b66-a2e3-0e6a001f73ac" name="Default Changelist" comment="" />
+      <created>1589408047347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589408047347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1589410789368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589410789368" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589411138492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589411138492" />
+    <state x="715" y="223" key="#xdebugger.evaluate" timestamp="1589414851773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="223" key="#xdebugger.evaluate/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589414851773" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1589456606697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589456606697" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1589456606697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589456606697" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1589456606696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589456606696" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1589456606697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589456606697" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1589456606697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589456606697" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1589456606697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589456606697" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1589456606697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589456606697" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1589456606697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1589456606697" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/busca/BuscaHeuristica.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/busca/BuscaHeuristica.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

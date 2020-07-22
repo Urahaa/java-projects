@@ -1,0 +1,7 @@
+1 - A busca em profundidade tem como objetivo explorar a partir do vertice inicial todos os vértice mais próximo e que já não tenha sido visitado.
+2 - A busca em largura tem como objetivo explorar os vértices a partir da expansão do seu nível, ou seja, a busca só segue quando todos os vértices do mesmo nível são explorados.
+3 - A busca de custo uniforme, considera que cada vértice terá um custo para ser percorrido, assim a busca é expandida conforme o vértice de menor custo enfileirado.
+4 - A busca com aprofundamento iterativo, tem o mesmo conceito da busca em profundidade, porém é definido um limite de profundidade, que é incrementado gradualmente, assim consegue evitar caminhos logos ou loopings.
+5 - A busca gulosa considera um custo heristico de um vértice, onde a busca é expandidada conforme o vértice de menor custo heuristico, assim traça uma linha reta.
+6 - A busca A* como na busca gulosa, os vértices possuem um custo heuristico que é combinado com o custo do caminho, onde os vértices são enfileirados com prioridade o menor custo, desta forma diferente da busca gulosa, permite a expansão dos caminhos facilitando a encontrar o caminho mais rápido até determinado vértice
+
